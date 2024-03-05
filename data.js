@@ -63,7 +63,7 @@ const data = [
         <div class="card" style="width: 18rem;">
             <img src="./image.jpg" class="card-img-top" />
             <div class="card-body">
-            <div class="card-title  ">${item.Name}</div>
+            <h5 class="card-title  ">${item.Name}</h5>
             <div class="card-subtitle">${item.ShortDesc}</div>
             <a class="btn btn-outline-dark">View</a>
             </div>
